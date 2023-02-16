@@ -1,6 +1,6 @@
 # DigiCombo
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Release](https://img.shields.io/github/v/release/ErfanSn/DigiCombo?display_name=release&include_prereleases&sort=date)](https://github.com/ErfanSn/SiliconeCalculator/releases)
+[![Release](https://img.shields.io/github/v/release/ES-factory/DigiCombo?display_name=release&include_prereleases&sort=date)](https://github.com/ES-factory/DigiCombo/releases)
 
 You no longer need to waste your time on simple and repetitive tasks and you can save it for hard tasks that have a lot of value just only prepare the necessary inputs that include the coordinates and the text to be printed, leaving the rest to **Digispark Attiny 85**.
 
