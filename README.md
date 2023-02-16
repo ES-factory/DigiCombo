@@ -17,7 +17,7 @@ Just install the latest version of Arduino Idea and search for `DigiCombo` from 
 You can find code any of this demos in [examples](/examples) folder
 | Instagram page scrolling | Pattern unlocking | Playing Stack | Zoom In/Out |
 | - | - | - | - |
-| ![Instagram page scrolling](/demo/instagram_page_scrolling.mp4) | ![Pattern unlocking](/demo/pattern_unlocking.mp4) | ![Playing Stack](/demo/playing_stack.mp4) | ![Zoom In/Out](/demo/zoom_in_out.mp4) |
+| <video src="https://user-images.githubusercontent.com/50053121/219417137-3854b97d-07d1-4eff-919f-4a942358e995.mp4"/> | <video src="https://user-images.githubusercontent.com/50053121/219417970-e2f4bd10-b4c8-4cce-a631-e4b19219f7b2.mp4"/> | <video src="https://user-images.githubusercontent.com/50053121/219419774-4be11ffc-3d42-49ae-ba85-6f9f847b8f55.mp4"/> | <video src="https://user-images.githubusercontent.com/50053121/219420037-b77089ab-7905-456e-a111-0cc2a82e4bb5.mp4"/> |
 
 ## Licence
 ```
