@@ -16,11 +16,11 @@ Just install the latest version of Arduino Idea and search for `DigiCombo` from 
 ## Demo
 You can find code any of this demos in [examples](/examples) folder
 | Page scrolling | Pattern unlocking |
-| -- | -- |
+| --- | --- |
 | <video src="https://github.com/ES-factory/DigiCombo/assets/50053121/4478107c-ec87-4bd0-b1c9-877ad8a8a0cc"/> | <video  src="https://user-images.githubusercontent.com/50053121/219417970-e2f4bd10-b4c8-4cce-a631-e4b19219f7b2.mp4"/> |
 
 | Playing Stack | Zoom In/Out |
-| -- | -- |
+| --- | --- |
 | <video src="https://user-images.githubusercontent.com/50053121/219419774-4be11ffc-3d42-49ae-ba85-6f9f847b8f55.mp4"/> | <video width="255" height="300" src="https://user-images.githubusercontent.com/50053121/219420037-b77089ab-7905-456e-a111-0cc2a82e4bb5.mp4"/> |
 
 ## Licence
