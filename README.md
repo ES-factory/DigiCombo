@@ -13,6 +13,9 @@ The operating systems in which it works correctly:
 ## How to download
 Just install the latest version of Arduino Idea and search for `DigiCombo` from the library management section.
 
+## How to record touches
+[how to record](RECORDING.md)
+
 ## Demo
 You can find code any of this demos in [examples](/examples) folder
 | Page scrolling | Pattern unlocking |
